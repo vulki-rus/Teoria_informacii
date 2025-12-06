@@ -1,1 +1,1 @@
-https://github.com/vulki-rus/ono-tebe-nado-ad
+https://github.com/vulki-rus/Teoria_informacii
